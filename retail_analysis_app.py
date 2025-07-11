@@ -116,4 +116,4 @@ st.markdown("📌 **Insight**: This shows how many unique customers are retained
 # 📌 Footer
 # ----------------------------------------
 st.markdown("---")
-st.caption("📊 Dashboard built by Pratik | Streamlit + Plotly + Pandas | Online Retail Dataset")
+st.caption("📊 Dashboard built by Group E | Streamlit + Plotly + Pandas | Online Retail Dataset")
